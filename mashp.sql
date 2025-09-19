@@ -1,1 +1,2 @@
 INSERT INTO mashp VALUES(8,'Abhi',22,'Physics ',60),(10,'Anju',26,'Science',70),kevin test(8,'Kevin',22,'Computer Science',60), (8,'Abhi',22,'Physics',60);
+INSERT Into mashp values(I See you)
